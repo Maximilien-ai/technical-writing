@@ -1,0 +1,11 @@
+# Agent local state
+AGENTS/*/.openclaw/
+AGENTS/*/memory/
+AGENTS/archive/
+
+# System runtime
+SYSTEM/agent-state.json
+SYSTEM/notifications.json
+
+# OS
+.DS_Store

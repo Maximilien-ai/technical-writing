@@ -1,0 +1,23 @@
+{
+  "id": "e7a40728-f4aa-40e8-bff7-70fa5eb64ccf",
+  "workflowId": "team-kickoff",
+  "startedAt": "2026-03-27T21:40:06.026Z",
+  "status": "completed",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "completed",
+      "response": "Let me get oriented first — checking the workspace and figuring out what we're working with.",
+      "completedAt": "2026-03-27T21:42:26.151Z"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-27T21:40:06.026Z",
+    "Targeting 1 agent(s)",
+    "Agent editor completed: Let me get oriented first — checking the workspace and figuring out what we're working with.",
+    "Workflow completed at 2026-03-27T21:42:26.153Z"
+  ],
+  "completedAt": "2026-03-27T21:42:26.153Z"
+}
