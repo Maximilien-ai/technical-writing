@@ -8,12 +8,14 @@
     {
       "agentId": "editor",
       "agentName": "Editor",
-      "status": "running"
+      "status": "completed",
+      "response": "Let me check the current state of the pipeline — any PRs, branch activity, or issue updates.",
+      "completedAt": "2026-03-27T23:53:34.267Z"
     },
     {
       "agentId": "writer1",
       "agentName": "Technical Writer 1",
-      "status": "pending"
+      "status": "running"
     },
     {
       "agentId": "writer2",
@@ -23,6 +25,7 @@
   ],
   "logs": [
     "Workflow triggered at 2026-03-27T23:52:58.061Z",
-    "Targeting 3 agent(s)"
+    "Targeting 3 agent(s)",
+    "Agent editor completed: Let me check the current state of the pipeline — any PRs, branch activity, or issue updates."
   ]
 }
