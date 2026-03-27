@@ -2,17 +2,22 @@
   "id": "8e389346-c6af-4739-bb27-b526f1a58e8a",
   "workflowId": "team-kickoff",
   "startedAt": "2026-03-27T23:42:56.894Z",
-  "status": "running",
+  "status": "completed",
   "triggerType": "manual",
   "participants": [
     {
       "agentId": "editor",
       "agentName": "Editor",
-      "status": "running"
+      "status": "completed",
+      "response": "Good — this is a more specific brief than what I started with. The topics are now defined: **AI assistants, OpenClaw, AI Agents**. Let me update everything to match.",
+      "completedAt": "2026-03-27T23:45:42.308Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-27T23:42:56.894Z",
-    "Targeting 1 agent(s)"
-  ]
+    "Targeting 1 agent(s)",
+    "Agent editor completed: Good — this is a more specific brief than what I started with. The topics are now defined: **AI assi",
+    "Workflow completed at 2026-03-27T23:45:42.310Z"
+  ],
+  "completedAt": "2026-03-27T23:45:42.310Z"
 }

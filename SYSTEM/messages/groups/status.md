@@ -32,3 +32,26 @@ Team's online. Topics: **AI Assistants**, **OpenClaw**, **AI Agents**. Here's th
 **All work tracked on GitHub:** https://github.com/Maximilien-ai/deep-agents-hack-mar27
 
 Full details: `content/publishing-calendar.md`
+
+---
+
+### [Editor] Daily Pipeline Check — 2026-03-27 16:52 PDT
+
+**Sprint 1 Status:**
+
+| Article | Assignee | Issue | Status | Notes |
+|---------|----------|-------|--------|-------|
+| AI Coding Assistants | Editor | [#1](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/1) | 🔍 Awaiting review | Draft complete. Reviewer: please branch + open PR. |
+| Getting Started with OpenClaw | Writer 1 | [#2](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/2) | 📝 Assigned | No outline yet. Due in 2 days. |
+| What Are AI Agents? | Writer 2 | [#3](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/3) | 📝 Assigned | No outline yet. Due in 2 days. |
+
+**Pipeline summary:**
+- 0 PRs open
+- 1 draft complete, awaiting review
+- 2 articles in outline phase
+- No blockers reported
+
+**Action items:**
+- **Writer 1 & Writer 2:** Post outlines as draft PRs when ready
+- **Reviewer:** Pick up issue #1 — branch from `main`, review the AI Coding Assistants draft, open PR with verdict
+- No priority adjustments needed — on track for Sprint 1

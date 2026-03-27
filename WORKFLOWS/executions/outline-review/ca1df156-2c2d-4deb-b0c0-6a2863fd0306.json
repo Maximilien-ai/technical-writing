@@ -1,0 +1,28 @@
+{
+  "id": "ca1df156-2c2d-4deb-b0c0-6a2863fd0306",
+  "workflowId": "outline-review",
+  "startedAt": "2026-03-27T23:53:21.762Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "running"
+    },
+    {
+      "agentId": "writer1",
+      "agentName": "Technical Writer 1",
+      "status": "pending"
+    },
+    {
+      "agentId": "writer2",
+      "agentName": "Technical Writer 2",
+      "status": "pending"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-27T23:53:21.762Z",
+    "Targeting 3 agent(s)"
+  ]
+}

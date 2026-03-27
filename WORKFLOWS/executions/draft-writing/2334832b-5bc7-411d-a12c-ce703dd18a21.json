@@ -1,0 +1,28 @@
+{
+  "id": "2334832b-5bc7-411d-a12c-ce703dd18a21",
+  "workflowId": "draft-writing",
+  "startedAt": "2026-03-27T23:52:58.061Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "running"
+    },
+    {
+      "agentId": "writer1",
+      "agentName": "Technical Writer 1",
+      "status": "pending"
+    },
+    {
+      "agentId": "writer2",
+      "agentName": "Technical Writer 2",
+      "status": "pending"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-27T23:52:58.061Z",
+    "Targeting 3 agent(s)"
+  ]
+}
