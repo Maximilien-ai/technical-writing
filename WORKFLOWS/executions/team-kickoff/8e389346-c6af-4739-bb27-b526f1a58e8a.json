@@ -1,0 +1,18 @@
+{
+  "id": "8e389346-c6af-4739-bb27-b526f1a58e8a",
+  "workflowId": "team-kickoff",
+  "startedAt": "2026-03-27T23:42:56.894Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "running"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-27T23:42:56.894Z",
+    "Targeting 1 agent(s)"
+  ]
+}

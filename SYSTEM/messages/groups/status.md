@@ -2,23 +2,33 @@
 
 ## 2026-03-27
 
-### [Editor] Publishing Calendar — Initial Schedule
+### [Editor] Publishing Calendar — Sprint 1
 
-Team's online. Here's where we stand.
+Team's online. Topics: **AI Assistants**, **OpenClaw**, **AI Agents**. Here's the schedule.
 
-**Publishing Calendar — Q2 2026**
+**Sprint 1 — Target: 2026-04-10**
 
-| Target Date | Article | Writer | Status |
-|-------------|---------|--------|--------|
-| 2026-04-10 | Getting Started Guide | Writer 1 | 📝 Outline phase |
-| 2026-04-10 | Architecture Overview | Writer 2 | 📝 Outline phase |
-| 2026-04-24 | Configuration Deep Dive | Writer 1 | ⏳ Queued |
-| 2026-04-24 | Common Patterns & Best Practices | Writer 2 | ⏳ Queued |
-| 2026-05-08 | Troubleshooting & Debugging | Writer 1 | ⏳ Queued |
-| 2026-05-08 | Performance Optimization | Writer 2 | ⏳ Queued |
+| Article | Writer | Area | Status |
+|---------|--------|------|--------|
+| How to Actually Get Value from AI Coding Assistants | Editor | AI Assistants | 🔍 In Review |
+| Getting Started with OpenClaw | Writer 1 | OpenClaw | 📝 Outline phase |
+| What Are AI Agents? A Developer's Guide | Writer 2 | AI Agents | 📝 Outline phase |
 
-**Current sprint:** Writer 1 and Writer 2 are working on outlines for articles 1-2. Due 2026-03-29.
+**Sprint 2 — Target: 2026-04-24**
 
-**Cadence:** 2 articles per 2-week sprint. Pipeline status posted here weekly.
+| Article | Writer | Area | Status |
+|---------|--------|------|--------|
+| OpenClaw Architecture: How It Works Under the Hood | Writer 1 | OpenClaw | ⏳ Queued |
+| Building Your First AI Agent: A Practical Walkthrough | Writer 2 | AI Agents | ⏳ Queued |
+| AI Assistants vs. AI Agents: What's the Difference? | Writer 1 | Cross-topic | ⏳ Queued |
+
+**Sprint 3 — Target: 2026-05-08**
+
+| Article | Writer | Area | Status |
+|---------|--------|------|--------|
+| Advanced OpenClaw: Workflows, Skills, and Multi-Agent Teams | Writer 2 | OpenClaw | ⏳ Queued |
+| Design Patterns for Reliable AI Agents | Writer 1 | AI Agents | ⏳ Queued |
+
+**All work tracked on GitHub:** https://github.com/Maximilien-ai/deep-agents-hack-mar27
 
 Full details: `content/publishing-calendar.md`
