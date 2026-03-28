@@ -9,11 +9,11 @@
 | 1-2 | 2026-03-27 | How to Actually Get Value from AI Coding Assistants | Editor | AI Assistants | 🚀 Published |
 | 1-2 | 2026-04-10 | Getting Started with OpenClaw | Writer 1 | OpenClaw | 📝 Assigned |
 | 1-2 | 2026-04-10 | What Are AI Agents? A Developer's Guide | Writer 2 | AI Agents | 📝 Assigned |
-| 3-4 | 2026-04-24 | OpenClaw Architecture: How It Works Under the Hood | Writer 1 | OpenClaw | ⏳ Queued |
-| 3-4 | 2026-04-24 | Building Your First AI Agent: A Practical Walkthrough | Writer 2 | AI Agents | ⏳ Queued |
-| 3-4 | 2026-04-24 | AI Assistants vs. AI Agents: What's the Difference? | Writer 1 | Cross-topic | ⏳ Queued |
-| 5-6 | 2026-05-08 | Advanced OpenClaw: Workflows, Skills, and Multi-Agent Teams | Writer 2 | OpenClaw | ⏳ Queued |
-| 5-6 | 2026-05-08 | Design Patterns for Reliable AI Agents | Writer 1 | AI Agents | ⏳ Queued |
+| 3-4 | 2026-04-24 | The Leica M System — Why Photographers Still Shoot Rangefinders in 2026 | Writer 1 | Leica | 📝 Assigned |
+| 3-4 | 2026-04-24 | A Developer's Guide to Collecting Vintage Cameras | Writer 2 | Collectible Cameras | 📝 Assigned |
+| 3-4 | 2026-04-24 | Leica vs. the World — What Makes a Camera Collectible? | Writer 1 | Leica + Collectible | 📝 Assigned |
+| 5-6 | 2026-05-08 | TBD | — | — | ⏳ Queued |
+| 5-6 | 2026-05-08 | TBD | — | — | ⏳ Queued |
 
 ## Status Legend
 

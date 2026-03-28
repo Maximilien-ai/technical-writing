@@ -1,0 +1,19 @@
+{
+  "version": "1.1.1",
+  "keywords": [
+    "railway",
+    "deploy",
+    "infrastructure",
+    "database",
+    "devops",
+    "cloud",
+    "services",
+    "environments"
+  ],
+  "categories": ["devops", "cloud"],
+  "author": {
+    "name": "Railway",
+    "github": "railwayapp"
+  },
+  "repository": "https://github.com/railwayapp/railway-skills"
+}

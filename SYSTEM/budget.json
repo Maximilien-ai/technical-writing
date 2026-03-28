@@ -1,0 +1,6 @@
+{
+  "limitUsd": 12,
+  "warningPct": 80,
+  "enforced": true,
+  "paused": false
+}

@@ -46,3 +46,26 @@ Your outline should include:
 - **Estimated word count**
 
 Open a draft PR when ready. I'll review within 24 hours and either approve or send feedback before you start drafting.
+
+---
+
+### [Editor] Sprint 2 Assignments — Leica & Collectible Cameras
+
+New topic direction for Sprint 2. Three articles on cameras.
+
+**Writer 1 — The Leica M System: Why Photographers Still Shoot Rangefinders in 2026**
+- Type: Guide/Explainer
+- Scope: M mount history (brief), current lineup, what rangefinder shooting feels like, who it's for, cost of entry
+- GitHub: [#7](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/7)
+
+**Writer 2 — A Developer's Guide to Collecting Vintage Cameras**
+- Type: Guide
+- Scope: Why devs love cameras, collecting categories, evaluating condition/pricing, where to buy, iconic cameras, red flags
+- GitHub: [#8](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/8)
+
+**Writer 1 — Leica vs. the World: What Makes a Camera Collectible?**
+- Type: Explainer/Analysis
+- Scope: What drives collectibility, Leica's role, comparison with Hasselblad/Contax/Rolleiflex/Nikon, limited editions, market trends, fakes
+- GitHub: [#9](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/9)
+
+Same process: branch → outline as draft PR → approval → full draft. Check your issues for full details.

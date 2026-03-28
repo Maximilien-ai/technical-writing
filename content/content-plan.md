@@ -21,6 +21,12 @@ What OpenClaw is, how to set it up, and how to build with it. Tutorials, archite
 ### 3. AI Agents
 The broader AI agent landscape — what agents are, how they work, design patterns, and where the field is heading.
 
+### 4. Leica Cameras
+The Leica M system, rangefinder philosophy, and what makes Leica endure in a digital world.
+
+### 5. Collectible Cameras
+Vintage and collectible camera culture — what to collect, how to evaluate, market dynamics, and the engineering that makes these objects last.
+
 ---
 
 ## Article Assignments
@@ -37,16 +43,16 @@ The broader AI agent landscape — what agents are, how they work, design patter
 
 | # | Topic | Writer | Type | Area |
 |---|-------|--------|------|------|
-| 4 | OpenClaw Architecture: How It Works Under the Hood | Writer 1 | Reference | OpenClaw |
-| 5 | Building Your First AI Agent: A Practical Walkthrough | Writer 2 | Tutorial | AI Agents |
-| 6 | AI Assistants vs. AI Agents: What's the Difference? | Writer 1 | Explainer | AI Assistants / AI Agents |
+| 4 | The Leica M System — Why Photographers Still Shoot Rangefinders in 2026 | Writer 1 | Guide/Explainer | Leica Cameras |
+| 5 | A Developer's Guide to Collecting Vintage Cameras | Writer 2 | Guide | Collectible Cameras |
+| 6 | Leica vs. the World — What Makes a Camera Collectible? | Writer 1 | Explainer/Analysis | Leica + Collectible Cameras |
 
-### Sprint 3 (Week 5-6)
+### Sprint 3 (Week 5-6) — TBD
 
 | # | Topic | Writer | Type | Area |
 |---|-------|--------|------|------|
-| 7 | Advanced OpenClaw: Workflows, Skills, and Multi-Agent Teams | Writer 2 | Guide | OpenClaw |
-| 8 | Design Patterns for Reliable AI Agents | Writer 1 | Guide | AI Agents |
+| 7 | TBD | — | — | — |
+| 8 | TBD | — | — | — |
 
 ## Content Pipeline
 
