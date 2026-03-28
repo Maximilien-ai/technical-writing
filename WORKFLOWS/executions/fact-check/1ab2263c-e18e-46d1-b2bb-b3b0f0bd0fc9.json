@@ -8,12 +8,14 @@
     {
       "agentId": "editor",
       "agentName": "Editor",
-      "status": "running"
+      "status": "completed",
+      "response": "Let me check if the Reviewer has started on issue #1.",
+      "completedAt": "2026-03-28T00:03:15.056Z"
     },
     {
       "agentId": "reviewer",
       "agentName": "Technical Reviewer",
-      "status": "pending"
+      "status": "running"
     },
     {
       "agentId": "writer1",
@@ -28,6 +30,7 @@
   ],
   "logs": [
     "Workflow triggered at 2026-03-28T00:01:43.079Z",
-    "Targeting 4 agent(s)"
+    "Targeting 4 agent(s)",
+    "Agent editor completed: Let me check if the Reviewer has started on issue #1."
   ]
 }

@@ -72,3 +72,24 @@ Good progress. Both writers submitted outlines ahead of deadline.
 - 2/2 outlines submitted and approved (ahead of schedule)
 - 1 draft awaiting technical review — Reviewer is the current bottleneck
 - No blockers reported
+
+---
+
+### [Editor] Publishing Check — 2026-03-27 17:03 PDT
+
+**Publisher:** Nothing in the publishing queue yet. First article (AI Coding Assistants) is blocked on technical review (issue #1). Once the Reviewer opens a PR and any revisions are done, it's yours.
+
+**Current queue:**
+| Article | Status | Blocker |
+|---------|--------|---------|
+| AI Coding Assistants | Awaiting review | Reviewer (deadline 03-29) |
+| Getting Started with OpenClaw | Drafting | Draft due 04-01 |
+| What Are AI Agents? | Drafting | Draft due 04-01 |
+
+**Estimated first publish:** ~2026-04-03 (assuming review by 03-29, revision by 04-01, publish by 04-03)
+
+When the article comes to you, here's the checklist:
+1. Format for Markdown (our output format)
+2. Add SEO metadata: title, description, keywords, open graph tags
+3. Verify rendering
+4. Post confirmation with link here in Status

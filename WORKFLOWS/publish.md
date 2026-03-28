@@ -12,10 +12,11 @@ targeting:
   agents:
     - publisher
 created: '2026-03-27T23:42:31.583Z'
-modified: '2026-03-27T23:42:31.583Z'
+modified: '2026-03-28T00:03:42.577Z'
 author: ClawMax Team
 owner: publisher
 executionMode: managed
+runCount: 1
 ---
 # Content Publishing
 

@@ -1,0 +1,23 @@
+{
+  "id": "f84314b1-7741-4335-8f70-f805790f06bd",
+  "workflowId": "publish",
+  "startedAt": "2026-03-28T00:03:42.892Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "running"
+    },
+    {
+      "agentId": "publisher",
+      "agentName": "Publisher",
+      "status": "pending"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-28T00:03:42.892Z",
+    "Targeting 2 agent(s)"
+  ]
+}
