@@ -1,8 +1,9 @@
 # What Are AI Agents? A Developer's Guide
 
 **Type:** Explainer | **Area:** AI Agents | **Writer:** Writer 2
-**Status:** 📋 Outline (pending editor review)
-**Target date:** 2026-04-10
+**Status:** ✅ Outline approved — drafting in progress
+**Target date:** 2026-04-01 (first draft)
+**Word target:** 2,500-3,500 words
 
 ---
 
@@ -102,7 +103,7 @@ Overview of the main patterns developers use:
 - Multiple specialized agents collaborate on a task
 - Example: one agent researches, another writes, a third reviews
 - More complex to build, but scales to harder problems
-- OpenClaw's model: agents with defined roles, tool access, and communication channels
+- OpenClaw supports multi-agent routing with isolated workspaces, sub-agent spawning, and inter-agent messaging
 
 #### Human-in-the-Loop
 - Agent works autonomously but pauses for human approval at key decision points
@@ -119,6 +120,7 @@ Honest assessment of current capabilities:
 
 ### What Agents Struggle With (Today)
 Equally honest about limitations:
+- **Hallucination/confabulation** — agents confidently calling tools with wrong parameters or misinterpreting tool outputs. One of the most common failure modes developers encounter.
 - Long-horizon planning (>10-15 steps)
 - Reliable self-correction when going off track
 - Tasks requiring real-time precision
@@ -126,17 +128,16 @@ Equally honest about limitations:
 - Cost management — agent loops can get expensive
 - Knowing when to stop or ask for help
 
-### Building Your First Agent: What to Know
-Practical guidance for developers who want to try:
+### Before You Build: What to Know
+Principles only — the "how" lives in Article 5 ("Building Your First AI Agent"). Keep to 3-4 key bullets, ~300 words max:
 - Start with a constrained scope (specific task, limited tools)
-- Choose a framework or build from scratch (trade-offs of each)
-- Mention popular options: LangChain, CrewAI, AutoGen, OpenClaw (for agent infrastructure)
 - Invest in good tool definitions — the agent is only as useful as its tools
 - Build in guardrails from day one: budget limits, approval gates, logging
 - Test with real scenarios, not just demos
+- Mention frameworks (LangChain at [langchain.com](https://langchain.com), CrewAI, AutoGen, OpenClaw) as starting points, not deep-dives
 
-### The Agent Landscape: Where Things Are Heading
-Brief, grounded look at the near-future:
+### The Agent Landscape: Where Things Are Heading (as of early 2026)
+Brief, grounded look at the near-future. Frame as directional trends, not definitive predictions. Note this section may need updating at publish time:
 - Models are getting better at reasoning and tool use — agents will become more reliable
 - Agent-to-agent communication is emerging (MCP, A2A, ACP)
 - Infrastructure is maturing (OpenClaw, cloud-hosted agent platforms)
@@ -155,14 +156,25 @@ Recap the key mental model:
 
 ## Sources
 - OpenClaw docs: https://docs.openclaw.ai
-- ReAct paper: Yao et al., 2022
-- LangChain docs: https://docs.langchain.com
+- GitHub: https://github.com/openclaw/openclaw
+- ReAct: Synergizing Reasoning and Acting in Language Models (Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y., 2022) — https://arxiv.org/abs/2210.03629
+- LangChain: https://langchain.com (verify docs URL before publish — has moved between python.langchain.com and js.langchain.com)
 - Anthropic tool use documentation
 - OpenAI function calling documentation
 
 ## Notes for Editor
-- Need to decide on the right level of code examples — this is an explainer, not a tutorial, but one or two short snippets might help ground the concepts
-- The "Common Agent Architectures" section could easily get too long; plan to keep each pattern to 2-3 paragraphs max
-- The comparison table won't render on Discord/WhatsApp — will need a bullet-list alternative for those surfaces
-- Should cross-reference Article 5 ("Building Your First AI Agent") which goes deeper on the practical side
-- Diagrams needed: agent loop, agent vs chatbot vs script, multi-agent communication
+- **Code examples:** 1-2 pseudocode snippets only (per editor + reviewer). Will include simplified ReAct loop pseudocode to ground the "LLM + tools + a loop" model. No SDK-specific code (breaks within months).
+- **Architectures:** Strict 2-3 paragraphs per pattern. ReAct gets the most space.
+- **Comparison table:** Draft will include both markdown table AND bullet-list alternative below it. Editor decides which to ship per surface.
+- **"Before You Build" section:** Tightened to principles only (~300 words max). Defers "how" to Article 5.
+- **Landscape section:** Qualified with "as of early 2026" — may need updating at publish time.
+- Cross-references Article 5 ("Building Your First AI Agent") for the hands-on follow-up
+- Diagrams needed: agent loop, component breakdown, multi-agent communication
+
+## Review Feedback Incorporated
+- ✅ ReAct citation: expanded to full citation with arXiv link
+- ✅ OpenClaw multi-agent description: made specific (isolated workspaces, sub-agent spawning, inter-agent messaging)
+- ✅ Added hallucination/confabulation to "struggles" section
+- ✅ LangChain URL: changed to langchain.com with verification note
+- ✅ Landscape section: added "as of early 2026" qualifier
+- ✅ "Building Your First Agent" → renamed "Before You Build," tightened to principles only
