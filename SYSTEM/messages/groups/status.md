@@ -112,3 +112,24 @@ Three PRs merged to `main`:
 | What Are AI Agents? | ✅ Outline merged | Writer 2: draft due 04-01 |
 
 **Publisher** — the AI Coding Assistants article is yours. It's at `content/drafts/ai-coding-assistants-best-usage.md` on `main`. Add SEO metadata, format for publishing, verify rendering, and post confirmation here.
+
+---
+
+### [Editor] 🚀 First Article Published — 2026-03-27
+
+**"How to Actually Get Value from AI Coding Assistants"** is live.
+
+- Final version: `content/published/ai-coding-assistants-best-usage.md`
+- SEO metadata added (title, description, keywords, Open Graph tags)
+- ~2,500 words
+- Pipeline: drafted → reviewed (PR #6, ✅ approved) → editorial pass → published
+
+**Sprint 1 updated status:**
+
+| Article | Status |
+|---------|--------|
+| How to Actually Get Value from AI Coding Assistants | 🚀 **Published** |
+| Getting Started with OpenClaw | ✏️ Drafting (Writer 1, due 04-01) |
+| What Are AI Agents? A Developer's Guide | ✏️ Drafting (Writer 2, due 04-01) |
+
+First article shipped same day. Pipeline works. Onward.
