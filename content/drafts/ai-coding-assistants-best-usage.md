@@ -4,15 +4,13 @@
 
 ---
 
-The pitch is simple: AI writes code, you ship faster. The reality is messier. Developers who get the most from AI coding assistants aren't the ones who type "build me an app" and hope for the best. They're the ones who've learned how to collaborate with a tool that's powerful, eager to please, and occasionally, confidently wrong.
-
-This guide covers the patterns that work, the traps to avoid, and how to integrate AI assistants into your workflow without sacrificing code quality or your own growth as an engineer.
+The pitch is simple: AI writes code, you ship faster. The reality is messier. This guide covers the patterns that actually work, the traps to avoid, and how to integrate AI assistants into your workflow without sacrificing code quality.
 
 ## The Mental Model Shift
 
 The first mistake most developers make is treating an AI coding assistant like either a search engine or an autonomous developer. It's neither.
 
-Think of it as a very fast, very well-read junior engineer. It has seen an enormous amount of code. It can produce working solutions quickly. It patterns-match well. But it doesn't understand your system's history, your team's conventions, or the trade-offs that led to your current architecture. That context is your job.
+Think of it as a very fast, very well-read junior engineer. It has seen an enormous amount of code. It can produce working solutions quickly. It pattern-matches well. But it doesn't understand your system's history, your team's conventions, or the trade-offs that led to your current architecture. That context is your job.
 
 This reframing matters because it changes how you interact with the tool:
 
@@ -90,7 +88,7 @@ The difference is context. The second prompt tells the assistant about your tech
 
 Paste in an example of how similar code looks in your project. If your codebase has a specific error handling pattern, a particular way of structuring services, or naming conventions that matter — show them. AI assistants are excellent at pattern continuation. Give them a pattern, and they'll follow it.
 
-```
+```text
 Here's how our existing services are structured:
 
 [paste an example service]
