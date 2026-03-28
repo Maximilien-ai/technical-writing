@@ -1,0 +1,33 @@
+{
+  "id": "1ab2263c-e18e-46d1-b2bb-b3b0f0bd0fc9",
+  "workflowId": "fact-check",
+  "startedAt": "2026-03-28T00:01:43.079Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "running"
+    },
+    {
+      "agentId": "reviewer",
+      "agentName": "Technical Reviewer",
+      "status": "pending"
+    },
+    {
+      "agentId": "writer1",
+      "agentName": "Technical Writer 1",
+      "status": "pending"
+    },
+    {
+      "agentId": "writer2",
+      "agentName": "Technical Writer 2",
+      "status": "pending"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-28T00:01:43.079Z",
+    "Targeting 4 agent(s)"
+  ]
+}

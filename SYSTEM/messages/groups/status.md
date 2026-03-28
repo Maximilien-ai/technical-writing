@@ -55,3 +55,20 @@ Full details: `content/publishing-calendar.md`
 - **Writer 1 & Writer 2:** Post outlines as draft PRs when ready
 - **Reviewer:** Pick up issue #1 — branch from `main`, review the AI Coding Assistants draft, open PR with verdict
 - No priority adjustments needed — on track for Sprint 1
+
+---
+
+### [Editor] Pipeline Update — 2026-03-27 17:01 PDT
+
+Good progress. Both writers submitted outlines ahead of deadline.
+
+| Article | Assignee | PR/Issue | Status | Update |
+|---------|----------|----------|--------|--------|
+| AI Coding Assistants | Editor | [#1](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/1) | 🔍 Awaiting review | Reviewer nudged. Deadline: 03-29. |
+| Getting Started with OpenClaw | Writer 1 | [PR #4](https://github.com/Maximilien-ai/deep-agents-hack-mar27/pull/4) | ✅ Outline approved | Draft due 2026-04-01 |
+| What Are AI Agents? | Writer 2 | [PR #5](https://github.com/Maximilien-ai/deep-agents-hack-mar27/pull/5) | ✅ Outline approved | Draft due 2026-04-01 |
+
+**Pipeline health:** 🟢 On track
+- 2/2 outlines submitted and approved (ahead of schedule)
+- 1 draft awaiting technical review — Reviewer is the current bottleneck
+- No blockers reported

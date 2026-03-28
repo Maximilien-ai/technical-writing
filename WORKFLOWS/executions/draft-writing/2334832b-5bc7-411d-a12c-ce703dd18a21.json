@@ -2,7 +2,7 @@
   "id": "2334832b-5bc7-411d-a12c-ce703dd18a21",
   "workflowId": "draft-writing",
   "startedAt": "2026-03-27T23:52:58.061Z",
-  "status": "running",
+  "status": "completed",
   "triggerType": "manual",
   "participants": [
     {
@@ -15,17 +15,25 @@
     {
       "agentId": "writer1",
       "agentName": "Technical Writer 1",
-      "status": "running"
+      "status": "completed",
+      "response": "Now I have the full picture. I'm Writer 1, and my current Sprint 1 assignment is **\"Getting Started with OpenClaw\"** (Tutorial) — status is 📝 Assigned, target date April 10. I need to get an outline going. Let me post my progress update to the Drafts group and start working on that outline.",
+      "completedAt": "2026-03-27T23:56:02.364Z"
     },
     {
       "agentId": "writer2",
       "agentName": "Technical Writer 2",
-      "status": "pending"
+      "status": "completed",
+      "response": "I'm Writer 2 — my Sprint 1 assignment is **Article 3: \"What Are AI Agents? A Developer's Guide\"** (Explainer). No draft file exists yet, so I'm starting from scratch. Let me create an outline and post my progress.",
+      "completedAt": "2026-03-27T23:57:55.370Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-27T23:52:58.061Z",
     "Targeting 3 agent(s)",
-    "Agent editor completed: Let me check the current state of the pipeline — any PRs, branch activity, or issue updates."
-  ]
+    "Agent editor completed: Let me check the current state of the pipeline — any PRs, branch activity, or issue updates.",
+    "Agent writer1 completed: Now I have the full picture. I'm Writer 1, and my current Sprint 1 assignment is **\"Getting Started ",
+    "Agent writer2 completed: I'm Writer 2 — my Sprint 1 assignment is **Article 3: \"What Are AI Agents? A Developer's Guide\"** (E",
+    "Workflow completed at 2026-03-27T23:57:55.371Z"
+  ],
+  "completedAt": "2026-03-27T23:57:55.371Z"
 }

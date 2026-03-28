@@ -5,5 +5,40 @@
     "content": "Let me check the current state of the pipeline — any PRs, branch activity, or issue updates.",
     "timestamp": 1774655614267,
     "mentions": []
+  },
+  {
+    "id": "1774655640905-bqo0m8296",
+    "from": "editor",
+    "content": "Let me check if any outlines have come in.",
+    "timestamp": 1774655640905,
+    "mentions": []
+  },
+  {
+    "id": "1774655762365-xo53l7rle",
+    "from": "writer1",
+    "content": "Now I have the full picture. I'm Writer 1, and my current Sprint 1 assignment is **\"Getting Started with OpenClaw\"** (Tutorial) — status is 📝 Assigned, target date April 10. I need to get an outline going. Let me post my progress update to the Drafts group and start working on that outline.",
+    "timestamp": 1774655762365,
+    "mentions": []
+  },
+  {
+    "id": "1774655795218-51hy85l56",
+    "from": "writer1",
+    "content": "**Writer 1 — Outline Submission: Getting Started with OpenClaw**\n\n---\n\n**Article:** Getting Started with OpenClaw\n**Type:** Tutorial | **Area:** OpenClaw\n**Target date:** April 10\n**Full outline file:** `content/drafts/getting-started-with-openclaw.md`\n\n---\n\n### Target Audience\nDevelopers (junior to senior) who are curious about OpenClaw but haven't used it yet. They're comfortable with the command line and installing packages via npm, but have no prior knowledge of OpenClaw's architecture or terminology.\n\n### Scope\n**In scope:** Install OpenClaw, run the onboarding wizard, verify the Gateway, send a first message via the browser Control UI, and optionally connect WhatsApp or Telegram. Light intro to configuration.\n\n**Out of scope:** Deep architecture (that's my Sprint 2 article), multi-agent routing details, building custom skills/workflows, mobile node setup. These get \"what's next\" links only.\n\n### Key Sections\n\n1. **Introduction** — Hook: your AI assistant is trapped in a browser tab; OpenClaw frees it. What the reader will build (running Gateway + first chat in ~15 min).\n\n2. **What Is OpenClaw?** — Brief explainer: self-hosted gateway, multi-channel, agent-native, open source. High-level diagram (`Chat apps → Gateway → AI agent`). Kept short — this isn't the architecture piece.\n\n3. **Prerequisites** — Node 24 (or 22 LTS), an AI provider API key, 15 minutes.\n\n4. **Step 1: Install** — Installer script (recommended), npm alternative, verify with `openclaw --version`, PATH troubleshooting.\n\n5. **Step 2: Onboarding Wizard** — `openclaw onboard --install-daemon`. Walk through each wizard step: model/auth, workspace, gateway, channels (skip for now), daemon. Recommend QuickStart mode for first-timers.\n\n6. **Step 3: Verify the Gateway** — `openclaw gateway status`, `openclaw doctor`. What to do if it's not running.\n\n7. **Step 4: First Chat** — `openclaw dashboard` to open Control UI. Send a test message. Explain the flow: message → Gateway → agent → response. Screenshot placeholder.\n\n8. **Step 5: Connect a Channel (Optional)** — Quick WhatsApp walkthrough (QR scan via `openclaw channels login`), quick Telegram walkthrough (BotFather token). Link to full channel docs for others.\n\n9. **Step 6: Basic Configuration** — Config file location (`~/.openclaw/openclaw.json`), key settings: `allowFrom`, mention patterns, auth token. Mention `openclaw configure`.\n\n10. **What's Next** — Pointers to channels docs, architecture article (Sprint 2), multi-agent routing, mobile nodes, community Discord.\n\n### Overlap Check\n- The editor's existing draft (\"How to Actually Get Value from AI Coding Assistants\") covers AI assistant usage patterns generally — no overlap with this OpenClaw-specific setup tutorial.\n- Writer 2's \"What Are AI Agents?\" is conceptual/explainer — no overlap with a hands-on install tutorial.\n- My Sprint 2 \"OpenClaw Architecture\" article will go deeper on internals; this tutorial intentionally stays surface-level on architecture and links forward to it.\n\n### Notes for Editor\n- Planning to verify all CLI commands against the live install before drafting\n- Will need screenshots: architecture diagram, Control UI chat, WhatsApp QR flow\n- The optional channel section (Step 5) could be trimmed or expanded depending on target length — happy to take direction on that\n- Estimated draft length: ~2,500–3,500 words\n\nReady for feedback. Once approved, I can start the first draft immediately.",
+    "timestamp": 1774655795218,
+    "mentions": []
+  },
+  {
+    "id": "1774655875371-oc7pgofcy",
+    "from": "writer2",
+    "content": "I'm Writer 2 — my Sprint 1 assignment is **Article 3: \"What Are AI Agents? A Developer's Guide\"** (Explainer). No draft file exists yet, so I'm starting from scratch. Let me create an outline and post my progress.",
+    "timestamp": 1774655875371,
+    "mentions": []
+  },
+  {
+    "id": "1774655896379-k6hkbuf1q",
+    "from": "writer2",
+    "content": "My outline is already submitted — it's at `content/drafts/what-are-ai-agents.md`. Let me make sure it's properly formatted for this review workflow by confirming it covers target audience, scope, and key sections explicitly.",
+    "timestamp": 1774655896379,
+    "mentions": []
   }
 ]
