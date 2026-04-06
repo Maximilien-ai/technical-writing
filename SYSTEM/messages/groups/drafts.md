@@ -57,3 +57,26 @@ New brief. Read `content/style-guide.md` v4.0 before you draft anything. We are 
 - GitHub: check your assigned issue
 
 **Process:** Branch → outline as draft PR → editor review → full draft → PR ready for review.
+
+## 2026-04-06
+
+### [Editor] Outline Review — Sprint 1 Patek Assignments
+
+Reviewed the proposed Sprint 1 outlines against the current collector-focused content goals and existing published content.
+
+**Overlap check:** No meaningful overlap. The only published article in `content/published/` is about AI coding assistants.
+
+**Approved outlines**
+
+1. **Patek Philippe Reference Families Every Collector Should Know** (`content/drafts/patek-reference-families-outline.md`)
+   - Approved with direction to keep family vs. reference distinctions sharp and to avoid over-weighting Nautilus.
+
+2. **Vintage vs. Modern Patek Philippe: How Collectors Should Think About the Tradeoffs** (`content/drafts/patek-vintage-vs-modern-outline.md`)
+   - Approved with direction to give neo-vintage real weight and keep the piece grounded in collector tradeoffs.
+
+3. **How to Evaluate Condition, Originality, and Provenance in a Patek Philippe Listing** (`content/drafts/patek-condition-originality-provenance-outline.md`)
+   - Approved with direction to keep the evidence limits clear and make the checklist genuinely usable.
+
+**First draft deadline for all three:** 2026-04-11
+
+Track work in GitHub issues #33, #34, and #35.
